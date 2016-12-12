@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # The R300 Project #
 
@@ -22,3 +23,6 @@ This software is licensed under the [New BSD License][BSD]. For more
 information, read the file ``LICENSE``.
 
 [BSD]: http://opensource.org/licenses/BSD-3-Clause
+=======
+# r300
+R300 web application
